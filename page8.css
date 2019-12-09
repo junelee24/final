@@ -1,0 +1,29 @@
+body{
+    background-color: #121212;
+}
+
+h1{
+        font-size: 150px;
+        font-family: big-caslon-fb, serif;
+        font-weight: 800;
+        font-style: normal;
+        text-transform: uppercase;
+        color: #ee2c38;
+
+    position: absolute;
+    left: 260px;
+    top: -90px;
+    }
+
+p{
+    color: white;
+    text-align: center;
+    font-family: mr-eaves-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    top: 200px;
+    left: 365px;
+    font-size: 30px;
+    line-height: 40px;
+}
